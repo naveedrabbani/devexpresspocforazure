@@ -15,4 +15,4 @@ import {AppComponent} from './app.component';
 })
 export class AppModule { }
 
-platformBrowserDynamic().bootstrapModule(AppModule);
+//platformBrowserDynamic().bootstrapModule(AppModule);

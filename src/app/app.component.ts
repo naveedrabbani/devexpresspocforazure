@@ -6,7 +6,6 @@ import { Blueprint, Service } from './app.service';
 
 
 @Component({
-    styleUrls: ['./app.component.css'],
     selector: 'demo-app',
     templateUrl: './app.component.html',
     providers: [Service]

@@ -29,7 +29,7 @@ let blueprints: Blueprint[] = [{
     "Description": "This is BP-B second version",
     "PollCycleInterval": 5,
     "AdvanceHQWNMM": false
-}
+},
 {
     "Name": "Blueprint C",
     "Version": "1.0.0",

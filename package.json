@@ -24,7 +24,12 @@
     "zone.js": "~0.8.26",
     "jszip": "~3.1.5",
     "devextreme-angular": "~18.1",
-    "devextreme": "~18.1"
+    "devextreme": "~18.1",
+    "@angular-devkit/build-angular": "~0.8.0",
+    "@angular/cli": "~6.2.5",
+    "@angular/compiler-cli": "^6.1.0",
+    "@types/node": "~8.9.4",
+    "typescript": "~2.9.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.8.0",

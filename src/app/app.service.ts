@@ -9,33 +9,32 @@ export class Blueprint {
 }
 
 let blueprints: Blueprint[] = [{
-    "Name": "Blueprint A",
+    "Name": "OG_PUMP_S",
     "Version": "1.0.0",
-    "Description": "This is BP-A initial version",
+    "Description": "Og Pump v1",
     "PollCycleInterval": 10,
     "AdvanceHQWNMM": false
-   
 },
 {
-    "Name": "Blueprint B",
+    "Name": "GAS_TURBINE",
     "Version": "1.0.0",
-    "Description": "This is BP-B initial version",
-    "PollCycleInterval": 5,
-    "AdvanceHQWNMM": true
+    "Description": "Gas Turbine v1",
+    "AdvanceHQWNMM": true,
+    "PollCycleInterval": 5
 },
 {
-    "Name": "Blueprint B",
+    "Name": "GAS_TURBINE",
     "Version": "2.0.0",
-    "Description": "This is BP-B second version",
-    "PollCycleInterval": 5,
-    "AdvanceHQWNMM": false
+    "Description": "Gas Turbine v2",
+    "AdvanceHQWNMM": true,
+    "PollCycleInterval": 5
 },
 {
-    "Name": "Blueprint C",
+    "Name": "MEH_STEAM_TURBINE",
     "Version": "1.0.0",
-    "Description": "This is BP-C initial version",
-    "PollCycleInterval": 5,
-    "AdvanceHQWNMM": true
+    "Description": "MEH Steam Turbine v1",
+    "AdvanceHQWNMM": false,
+    "PollCycleInterval": 5
 }
 ];
 
